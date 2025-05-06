@@ -1,11 +1,15 @@
-📢 Grammar Scoring Engine 🎙️📊
+# 📢 Grammar Scoring Engine 🎙️📊
+
 A machine learning-powered tool to evaluate spoken grammar using acoustic features and real-time feedback.
 
-🚀 Overview
+# 🚀 Overview
+
 The Grammar Scoring Engine analyzes spoken audio to predict grammar accuracy using advanced acoustic features and machine learning models. It provides instant feedback via an interactive web interface, making it ideal for exam preparation, language learning, and professional communication enhancement.
 
-✨ Features & Functionality
-🔍 Audio Analysis
+# ✨ Features & Functionality
+
+## 🔍 Audio Analysis
+
 Extracts 20+ acoustic features, including:
 
 MFCCs (Mel-frequency cepstral coefficients) – essential for speech recognition.
@@ -14,30 +18,35 @@ Spectral Contrast – helps distinguish different phonetic components.
 
 Zero Crossing Rate (ZCR) – detects speech characteristics.
 
-🤖 Machine Learning
+# 🤖 Machine Learning
+
 Random Forest Regressor trained on a large speech dataset to predict grammar accuracy.
 
 Provides real-time grammar scores (0.0 - 1.0 scale) to indicate spoken correctness.
 
-📊 Visual Analytics
+# 📊 Visual Analytics
+
 Waveform display for speech visualization.
 
 MFCC heatmap for feature analysis.
 
 Download full CSV report for detailed insights.
 
-🎛️ Real-Time Feedback
+# 🎛️ Real-Time Feedback
+
 Instant grammar assessment for spoken language.
 
 Evaluates speech fluency and correctness with data-driven insights.
 
-📂 File Support
+# 📂 File Support
+
 Works with WAV & MP3 audio formats for seamless integration.
 
-🏗️ Tech Stack
+# 🏗️ Tech Stack
+
 Built using cutting-edge tools:
 
-Core Technologies
+# Core Technologies
 
 🎼 Librosa – Audio feature extraction
 
@@ -47,7 +56,7 @@ Core Technologies
 
 📊 NumPy/Pandas – Data processing
 
-Supporting Libraries
+# Supporting Libraries
 
 📈 Matplotlib – Visualizations
 
@@ -55,7 +64,7 @@ Supporting Libraries
 
 ✍️ LanguageTool-Python – Grammar validation
 
-📚 Dataset
+# 📚 Dataset
 The model is trained using Mozilla's Common Voice dataset from Kaggle:
 
 Annotated with speaker metadata & text transcripts
@@ -68,10 +77,11 @@ MP3 audio files
 
 Speaker metadata (age, gender, accent)
 
-🔗 Source: Common Voice on Kaggle
 
-🔎 Use Cases
+#🔎 Use Cases
+
 🎓 Educational Applications
+
 Exam Prep: Perfect for IELTS, TOEFL, and other spoken language assessments.
 
 Personalized Learning: Tutors can analyze speech patterns to enhance lesson planning.
