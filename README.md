@@ -2,6 +2,9 @@
 
 A machine learning-powered tool to evaluate spoken grammar using acoustic features and real-time feedback.
 
+
+### streamlit deployment Link : https://grammarscorechecking-hrzxztaukumkbpmsjvbacv.streamlit.app/
+
 # 🚀 Overview
 
 The Grammar Scoring Engine analyzes spoken audio to predict grammar accuracy using advanced acoustic features and machine learning models. It provides instant feedback via an interactive web interface, making it ideal for exam preparation, language learning, and professional communication enhancement.
@@ -78,9 +81,9 @@ MP3 audio files
 Speaker metadata (age, gender, accent)
 
 
-#🔎 Use Cases
+# 🔎 Use Cases
 
-🎓 Educational Applications
+## 🎓 Educational Applications
 
 Exam Prep: Perfect for IELTS, TOEFL, and other spoken language assessments.
 
@@ -96,3 +99,6 @@ Public Speaking & Podcasting: Improves fluency and clarity.
 Call Center Training: Ensures professional communication.
 
 AI Assistants: Enhances speech interpretation.
+
+![Screenshot (185)](https://github.com/user-attachments/assets/7f436188-efcf-4095-bfbb-72739259b1b6)
+
